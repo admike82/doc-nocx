@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Présentation
 
-Découvrez **NOCx** ses origines.
+Découvrez **[NOCx](https://nocx.groupe-alternance.com/)** et ses origines.
 
 ## Les origines
 
@@ -12,66 +12,61 @@ Après 15 années de grande distribution, durant lesquelles j'ai évolué de ven
 
 Je choisi alors de vivre de ma passion, l'informatique et le développement.
 
-En septembre 2019 j'intègre, en tant que formateur informatique et digitalisation, l'école supérieur de l'alterance **[Groupe Alternance Mâcon](https://www.groupe-alternance.com/ecoles/macon/)**, ainsi que **[Groupe Alternance Dijon](https://www.groupe-alternance.com/ecoles/dijon/)** en janvier 2020.
+En septembre 2019 j'intègre, en tant que formateur informatique et digitalisation, l'école supérieur de l'alterance [Groupe Alternance Mâcon](https://www.groupe-alternance.com/ecoles/macon/), ainsi que [Groupe Alternance Dijon](https://www.groupe-alternance.com/ecoles/dijon/) en janvier 2020.
 
 Je découvre alors le monde de la formation et de l'alternance.
 
 ### les problèmatiques
 
 :::caution Les suivis pédagogiques
+
 - Veillez au remplissage des tableaux de suivi pédagogique.
 - Contôler que tout le référentiel soit couvert durant la formation.
 - Relancer les formateurs pour la saisie.
 - Sécuriser l'information.
+
 :::
 
-<!-- :::caution Le suivi des alternants
-- Saisie du suivi des alternants
-- 
-::: -->
-
 :::caution Accès à l'information pour toutes les parties concernées
+
 - Notes.
 - Appréciations.
 - Bulletin de notes.
 - Temps de présences (absences, retards).
 - Suivis.
 - Progressions pédagiques
+
 :::
 
 :::danger Qualiopi
-La **certification Qualiopi** devenant de plus en plus éxigente, et obligatoire pour proposer de l'alternance. La mise en place d'outils permettant de répondre aux attentes de cette certification s'imposait. 
+La **certification Qualiopi** devenant de plus en plus éxigente, et obligatoire pour proposer de l'alternance. La mise en place d'outils permettant de répondre aux attentes de cette certification s'imposait.
 :::
 
 :::tip NOCx
-C'est pour répondre à toutes ses problèmatiques que **NOCx** fut créé. 
+C'est pour répondre à toutes ses problèmatiques que **[NOCx](https://nocx.groupe-alternance.com/)** fut créé.
 :::
 
 ## La création
 
-Generate a new Docusaurus site using the **classic template**.
+En juin 2020 la pandémie du COVID-19 avait chamboulé notre façon de travailler, nous obligeant à digitaliser la formation.
 
-The classic template will automatically be added to your project after you run the command:
+Avec [Romain MINICILLO](https://www.linkedin.com/in/romain-minicillo-990621132) responsable régional de [Groupe Alternance Bourgogne](https://www.groupe-alternance.com/ecoles/macon/), nous décidons de créer un outil sur mesure nous permattant de réaliser les tâches suivantes facilement de n'importe quel endroit, afin de simplifier le suivi pédagogique lors des sessions en distanciel :
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- saisie et consultation des progressions pédagogiques,
+- saisie et consultation des notes,
+- saisie et consultation des appréciations,
+- saisie et consultation des absences et retards,
+- édition des relevés d'heures formateurs,
+- etc ...
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+De plus ceci nous premettrait de répondre aux [problématiques](#les-problèmatiques) citées précédement.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+:::note Naissance
+Après deux mois de développement intense la première version de **[NOCx](https://nocx.groupe-alternance.com/)** est livrée à la rentrée de septembre 2020, pour une phase de test sur les centres de [Mâcon](https://www.groupe-alternance.com/ecoles/macon/) et [Dijon](https://www.groupe-alternance.com/ecoles/dijon/).
+
+Les autres écoles de [Groupe Alternance](https://www.groupe-alternance.com) ont intégré **[NOCx](https://nocx.groupe-alternance.com/)** progressivement dès le mois de janvier 2021.
+:::
 
 ## Les objectifs
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Lister les objectifs de NOCx.
