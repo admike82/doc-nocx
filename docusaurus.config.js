@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Doc NOCx',
-  tagline: 'Prenez en main l\'application NOCx',
+  tagline: 'Prenez en main l\'application de gestion pédagogique NOCx',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -84,7 +84,7 @@ const config = {
             items: [
               {
                 label: 'Documentation NOCx',
-                to: '/docs/intro',
+                to: '/docs/Presentation',
               },
             ],
           },
