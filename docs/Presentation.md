@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # Présentation
 
+:::info Patience...
+**<center>Documentation en cours de rédaction !</center>**
+:::
+
 Découvrez **[NOCx](https://nocx.groupe-alternance.com/)** et ses origines.
 
 ## Les origines
@@ -71,7 +75,7 @@ Les autres écoles de [Groupe Alternance](https://www.groupe-alternance.com) ont
 
 ### Objectif principal
 
-:::tip L'ADN de [NOCx](https://nocx.groupe-alternance.com/)
+:::info L'ADN de [NOCx](https://nocx.groupe-alternance.com/)
 l'expérience utilisateur est l'élément pricinpal qui incite un utilisateur à prendre en main un outil et à l'alimenter de maniére efficace.
 
 l'objectif principal de **[NOCx](https://nocx.groupe-alternance.com/)** est sans conteste l'ergonomie.
