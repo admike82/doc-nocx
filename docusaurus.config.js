@@ -92,14 +92,50 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Documentation",
-                to: "/docs/Presentation",
+                label: "Accueil",
+                to: "/docs/category/accueil",
+              },
+              {
+                label: "Planning",
+                to: "/docs/category/planning",
+              },
+              {
+                label: "Progressions pédagogiques",
+                to: "/docs/category/progressions-pédagogiques",
+              },
+              {
+                label: "Relevé d'heures",
+                to: "/docs/category/relevé-dheures",
+              },
+              {
+                label: "Gestion des notes",
+                to: "/docs/category/gestion-des-notes",
+              },
+              {
+                label: "Suivis",
+                to: "/docs/category/suivis",
+              },
+              {
+                label: "Absences/retards",
+                to: "/docs/category/absences--retards",
+              },
+              {
+                label: "Administration",
+                to: "/docs/category/administration",
               },
             ],
           },
           {
             title: "Communauté",
             items: [
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/michael-gross-01a75b140/',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/watch?v=xc0mVqEGJL8&list=PLHtYFfuvnVjacNaZIMg2WU-tspXH4WvUz',
+              },
               // {
               //   label: 'Stack Overflow',
               //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
