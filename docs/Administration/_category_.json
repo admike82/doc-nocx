@@ -2,6 +2,7 @@
   "label": "Administration",
   "position": 10,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Retrouvez dans cette section les différents outils liés à l'administration du centre de formation."
   }
 }

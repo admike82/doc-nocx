@@ -2,6 +2,7 @@
   "label": "Synchronisations",
   "position": 2,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Vous retrouverez dans cette section les bonnes pratiques pour assurer la Synchronisation entre les diférents outils pris en charge."
   }
 }

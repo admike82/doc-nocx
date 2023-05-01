@@ -2,6 +2,7 @@
   "label": "Gestion des notes",
   "position": 7,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Découvrez comment gérez les notes et préparez les conseils de classe de manière simple et efficace."
   }
 }

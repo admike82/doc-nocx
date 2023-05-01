@@ -2,6 +2,7 @@
   "label": "Absences / Retards",
   "position": 9,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Comment gérer les absences, les retards et les départs anticipés."
   }
 }
