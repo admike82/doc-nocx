@@ -69,4 +69,18 @@ Les autres écoles de [Groupe Alternance](https://www.groupe-alternance.com) ont
 
 ## Les objectifs
 
-Lister les objectifs de NOCx.
+### Objectif principal
+
+:::tip L'ADN de [NOCx](https://nocx.groupe-alternance.com/)
+l'expérience utilisateur est l'élément pricinpal qui incite un utilisateur à prendre en main un outil et à l'alimenter de maniére efficace.
+
+l'objectif principal de **[NOCx](https://nocx.groupe-alternance.com/)** est sans conteste l'ergonomie.
+:::
+
+### Objectifs opérationnels
+
+- Le travail quotidien des équipes pédagogiques doit être simplifier et les informations doivent être accessible par tous en temps réel.
+- La saisie des progressions pour que les formateurs doit se faire rapidement et simplement, afin qu'ils puissent se concentrer sur leur contenus.
+- L'édition des relevé d'heures doit être alimenté par les contenus saisies par les formateur pour rendre cette tâche rapide et efficace.
+- Les étudiants doivent avoir accès rapidement et simplement à leurs notes, appréciations, bulletins, planning, progressions pédagogiques, absences, retards ...
+- Les tuteurs et entreprises doivent avoir un accès simple et rapide aux informations concernant leurs alternants.
