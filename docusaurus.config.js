@@ -11,10 +11,10 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://admike82.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/doc-nocx/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -129,12 +129,12 @@ const config = {
             title: "Communauté",
             items: [
               {
-                label: 'LinkedIn',
-                href: 'https://www.linkedin.com/in/michael-gross-01a75b140/',
+                label: "LinkedIn",
+                href: "https://www.linkedin.com/in/michael-gross-01a75b140/",
               },
               {
-                label: 'YouTube',
-                href: 'https://www.youtube.com/watch?v=xc0mVqEGJL8&list=PLHtYFfuvnVjacNaZIMg2WU-tspXH4WvUz',
+                label: "YouTube",
+                href: "https://www.youtube.com/watch?v=xc0mVqEGJL8&list=PLHtYFfuvnVjacNaZIMg2WU-tspXH4WvUz",
               },
               // {
               //   label: 'Stack Overflow',
