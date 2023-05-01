@@ -50,7 +50,7 @@ C'est pour répondre à toutes ses problèmatiques que **[NOCx](https://nocx.gro
 
 En juin 2020 la pandémie du COVID-19 avait chamboulé notre façon de travailler, nous obligeant à digitaliser la formation.
 
-Avec [Romain MINICILLO](https://www.linkedin.com/in/romain-minicillo-990621132) responsable régional de [Groupe Alternance Bourgogne](https://www.groupe-alternance.com/ecoles/macon/), nous décidons de créer un outil sur mesure nous permattant de réaliser les tâches suivantes facilement de n'importe quel endroit, afin de simplifier le suivi pédagogique lors des sessions en distanciel :
+Avec [Romain MINICILLO](https://www.linkedin.com/in/romain-minicillo-990621132) responsable régional [Alternance Bourgogne](https://www.alternance-bourgogne.fr/), nous décidons de créer un outil sur mesure nous permattant de réaliser les tâches suivantes facilement de n'importe quel endroit, afin de simplifier le suivi pédagogique lors des sessions en distanciel :
 
 - saisie et consultation des progressions pédagogiques,
 - saisie et consultation des notes,
@@ -61,7 +61,7 @@ Avec [Romain MINICILLO](https://www.linkedin.com/in/romain-minicillo-990621132) 
 
 De plus ceci nous premettrait de répondre aux [problématiques](#les-problèmatiques) citées précédement.
 
-:::note Naissance
+:::info Naissance
 Après deux mois de développement intense la première version de **[NOCx](https://nocx.groupe-alternance.com/)** est livrée à la rentrée de septembre 2020, pour une phase de test sur les centres de [Mâcon](https://www.groupe-alternance.com/ecoles/macon/) et [Dijon](https://www.groupe-alternance.com/ecoles/dijon/).
 
 Les autres écoles de [Groupe Alternance](https://www.groupe-alternance.com) ont intégré **[NOCx](https://nocx.groupe-alternance.com/)** progressivement dès le mois de janvier 2021.

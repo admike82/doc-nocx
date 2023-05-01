@@ -8,7 +8,7 @@ const FeatureList = [
     img: "img/simple.png",
     description: (
       <>
-        Nocx a été pensé pour rendre le suivi pédagogique facile et accessible
+        NOCx a été pensé pour rendre le suivi pédagogique facile et accessible
         au plus grand nombre.
       </>
     ),
@@ -19,7 +19,7 @@ const FeatureList = [
     description: (
       <>
         Pour une application est agréable à utilisé, plus elle sera efficace.
-        C'est en gardant cette idée en tête que Nocx a été conçue.
+        C'est en gardant cette idée en tête que NOCx a été conçue.
       </>
     ),
   },
