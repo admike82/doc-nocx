@@ -12,13 +12,7 @@ Découvrez **[NOCx](https://nocx.groupe-alternance.com/)** et ses origines.
 
 ## Les origines
 
-Après 15 années de grande distribution, durant lesquelles j'ai évolué de vendeur multimédia chez Géant Casino à directeur de magasin chez Intermarché, je décide de quitter ce secteur, car je n'évoluais plus.
-
-Je choisi alors de vivre de ma passion, l'informatique et le développement.
-
 En septembre 2019 j'intègre, en tant que formateur informatique et digitalisation, l'école supérieur de l'alterance [Groupe Alternance Mâcon](https://www.groupe-alternance.com/ecoles/macon/), ainsi que [Groupe Alternance Dijon](https://www.groupe-alternance.com/ecoles/dijon/) en janvier 2020.
-
-Je découvre alors le monde de la formation et de l'alternance.
 
 ### les problèmatiques
 
