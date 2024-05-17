@@ -98,7 +98,7 @@ const config = {
               },
               {
                 label: "Planning",
-                to: "/docs/category/planning",
+                to: "/docs/Planning",
               },
               {
                 label: "Progressions pédagogiques",
