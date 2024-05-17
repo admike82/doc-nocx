@@ -102,11 +102,11 @@ const config = {
               },
               {
                 label: "Progressions pédagogiques",
-                to: "/docs/category/progressions-pédagogiques",
+                to: "/docs/Progressions/",
               },
               {
                 label: "Relevé d'heures",
-                to: "/docs/category/relevé-dheures",
+                to: "/docs/Releve-d-heures/",
               },
               {
                 label: "Gestion des notes",
