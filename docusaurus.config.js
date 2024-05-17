@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: "Accueil",
-                to: "/docs/category/accueil",
+                to: "/docs/Accueil",
               },
               {
                 label: "Planning",
